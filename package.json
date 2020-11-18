@@ -1,0 +1,38 @@
+{
+  "name": "dm-tech-challenge",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Nuno Chinaglia Poli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nunocp/dm-tech-challenge/issues"
+  },
+  "homepage": "https://github.com/nunocp/dm-tech-challenge#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunocp/dm-tech-challenge.git"
+  },
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --detectOpenHandles"
+  },
+  "keywords": [
+    "backend",
+    "server",
+    "rest",
+    "api",
+    "challenge",
+    "nodejs",
+    "integration"
+  ]
+}
