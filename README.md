@@ -35,7 +35,7 @@ Exemplo: `docker run -p 4000:4000 dm-server`
 
 2. Na raiz do projeto, instale as dependências necessárias executando: `npm install`
 
-3. Rode o contêiner seguindo as instruções anteriores em *Executando* e execute: `npm test`
+3. Execute: `npm test`
 
 ## Controle de Qualidade (Linter)
 
